@@ -51,9 +51,14 @@ I enjoy working on real issues, improving documentation, fixing bugs, and buildi
 
 ## Contact
 
-- GitHub: https://github.com/VihaanR
-- LinkedIn: https://www.linkedin.com/in/vihaan-raut-423b8b313/
-- Email: vihaanmehulraut@gmail.com
+<div align="center">
+  <a href="vihaanmehulraut@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://linkedin.com/in/chijiokeokorji](https://www.linkedin.com/in/vihaan-raut-423b8b313/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 ![Profile views](https://komarev.com/ghpvc/?username=VihaanR&style=flat&color=green)
 ---
 
