@@ -56,11 +56,5 @@ I enjoy working on real issues, improving documentation, fixing bugs, and buildi
 - Email: vihaanmehulraut@gmail.com
 
 ---
-
----
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/VihaanR/count.svg" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=VihaanR&style=flat&color=grey)
 
