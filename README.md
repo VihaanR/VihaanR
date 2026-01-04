@@ -1,4 +1,4 @@
-## Hi, I’m Vihaan ![Profile views](https://komarev.com/ghpvc/?username=VihaanR&style=flat&color=green)
+## Hi, I’m Vihaan 
 
 AI and backend systems developer focused on building production-oriented APIs and machine learning inference pipelines.
 
@@ -54,7 +54,7 @@ I enjoy working on real issues, improving documentation, fixing bugs, and buildi
 - GitHub: https://github.com/VihaanR
 - LinkedIn: https://www.linkedin.com/in/vihaan-raut-423b8b313/
 - Email: vihaanmehulraut@gmail.com
-
+![Profile views](https://komarev.com/ghpvc/?username=VihaanR&style=flat&color=green)
 ---
 
 
