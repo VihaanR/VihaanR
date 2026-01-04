@@ -2,11 +2,7 @@
 
 AI and backend systems developer focused on building production-oriented APIs and machine learning inference pipelines.
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/VihaanR/count.svg" alt="Visitor Count" />
-</div>
-
+---
 
 ## What I work on
 
@@ -58,3 +54,13 @@ I enjoy working on real issues, improving documentation, fixing bugs, and buildi
 - GitHub: https://github.com/VihaanR
 - LinkedIn: https://www.linkedin.com/in/vihaan-raut-423b8b313/
 - Email: vihaanmehulraut@gmail.com
+
+---
+
+---
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/VihaanR/count.svg" />
+</p>
+
