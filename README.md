@@ -2,13 +2,12 @@
 
 AI and backend systems developer focused on building production-oriented APIs and machine learning inference pipelines.
 
----
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/VihaanR/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/VihaanR/count.svg" alt="Visitor Count" />
 </div>
 
----
+
 ## What I work on
 
 I primarily work on backend and systems-level projects with an emphasis on:
