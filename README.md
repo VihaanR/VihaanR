@@ -59,7 +59,8 @@ I enjoy working on real issues, improving documentation, fixing bugs, and buildi
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=VihaanR&style=flat&color=green)
----
 
 
