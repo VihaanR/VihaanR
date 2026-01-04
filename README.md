@@ -1,4 +1,4 @@
-## Hi, I’m Vihaan![Profile views](https://komarev.com/ghpvc/?username=VihaanR&style=flat&color=magenta)
+## Hi, I’m Vihaan ![Profile views](https://komarev.com/ghpvc/?username=VihaanR&style=flat&color=cyan)
 
 AI and backend systems developer focused on building production-oriented APIs and machine learning inference pipelines.
 
